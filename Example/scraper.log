@@ -1,0 +1,8 @@
+2026-03-15 15:59:32,124 [INFO] ── Page 1/? ──
+2026-03-15 15:59:34,234 [INFO] Total pages: 5 | Scraping: 5
+2026-03-15 16:06:09,467 [WARNING] Image failed (https://cache3.pakwheels.com/ad_pictures/1400/daihatsu-cast-sport-turbo-sa-iii-2022-140084269.webp): HTTPSConnectionPool(host='cache3.pakwheels.com', port=443): Read timed out. (read timeout=15)
+2026-03-15 16:06:26,147 [WARNING] Image failed (https://cache2.pakwheels.com/ad_pictures/1400/daihatsu-cast-sport-turbo-sa-iii-2022-140084268.webp): HTTPSConnectionPool(host='cache2.pakwheels.com', port=443): Read timed out. (read timeout=15)
+2026-03-15 16:06:49,456 [WARNING] Image failed (https://cache2.pakwheels.com/ad_pictures/1400/suzuki-cultus-vxri-euro-ii-2015-140076189.webp): HTTPSConnectionPool(host='cache2.pakwheels.com', port=443): Read timed out. (read timeout=15)
+2026-03-15 16:12:36,186 [WARNING] Image failed (https://cache3.pakwheels.com/ad_pictures/1400/mazda-323-1986-140083940.webp): HTTPSConnectionPool(host='cache3.pakwheels.com', port=443): Max retries exceeded with url: /ad_pictures/1400/mazda-323-1986-140083940.webp (Caused by NameResolutionError("HTTPSConnection(host='cache3.pakwheels.com', port=443): Failed to resolve 'cache3.pakwheels.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-15 16:14:07,017 [INFO]   27 total listings saved.
+2026-03-15 16:14:09,019 [INFO] ── Page 2/5 ──
